@@ -1,5 +1,7 @@
 <h1>Pedro Simões</h1>
-
+<p>
+  I'm a 21 year old Computer Science student and aspiring software engineer. 
+</p>
 ---
 
 ## 👤 About Me
