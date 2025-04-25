@@ -5,12 +5,14 @@
 
 ---
 
-## 👤 About Me
+## 💻 About Me
 
-- 🎓 Education: **3rd year BSc in Computer Science @ FCUL**
-- 🔬 Areas of interest: **Software Engineering, Distributed Systems, Operating Systems**
-- 📚 Currently exploring: **SpringBoot, Angular, Rust**
-- 📫 Contact: **pedroalsim@gmail.com**
+🎓 Education: 3rd year BSc in Computer Science @ FCUL  
+💡 Areas of interest: Software Engineering, Distributed Systems, Operating Systems  
+🔍 Currently exploring: SpringBoot, Angular, Rust  
+🐧 Linux Enthusiast: Check out my [dotfiles](https://github.com/PedroSimoes24/dotfiles)  
+📧 Contact: pedroalsim@gmail.com
+
 
 ---
 
