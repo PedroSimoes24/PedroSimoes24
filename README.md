@@ -7,11 +7,12 @@
 
 ## 💻 About Me
 
-🎓 Education: 3rd year BSc in Computer Science @ FCUL  
-💡 Areas of interest: Software Engineering, Distributed Systems, Operating Systems  
-🔍 Currently exploring: SpringBoot, Angular, Rust  
-🐧 Linux Enthusiast: Check out my [dotfiles](https://github.com/PedroSimoes24/dotfiles)  
-📧 Contact: pedroalsim@gmail.com
+🎓 3rd year BSc in Computer Science @ FCUL  
+💡 Areas of interest in Software Engineering, Distributed Systems, Operating Systems  
+🔍 Currently exploring SpringBoot, Angular, Rust  
+🐧 Linux Enthusiast - Check out my [dotfiles](https://github.com/yourusername/dotfiles)  
+🎮 I enjoy creating games in gamejams  
+📧 Contact me at pedroalsim@gmail.com
 
 
 ---
@@ -40,4 +41,5 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebGL-F3F3F3?style=for-the-badge&logo=webgl&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Godot-3589C2?style=for-the-badge&logo=godot-engine&logoColor=white"/>
 </p>
