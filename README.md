@@ -1,7 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile</h1>
-<p align="center">
-  I'm Pedro Simões, a 21 year old computer Science student and aspiring software engineer.
-</p>
+<h1>Pedro Simões</h1>
 
 ---
 
